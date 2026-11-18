@@ -1,0 +1,44 @@
+
+# ==========================================
+# AI ENGINEERING - REQUIREMENTS
+# ==========================================
+
+# Core Data Science
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Deep Learning
+# Install PyTorch separately using the CUDA
+# installation command in the project README.
+
+# Hugging Face and LLM
+transformers
+tokenizers
+datasets
+accelerate
+sentencepiece
+
+# API Development
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+httpx
+requests
+
+# AI Agent Development
+langchain
+langgraph
+
+# Development Tools
+jupyterlab
+ipykernel
+tqdm
